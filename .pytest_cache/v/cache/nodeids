@@ -1,0 +1,4 @@
+[
+  "tests/test_simple_storage.py::test_deploy",
+  "tests/test_simple_storage.py::test_updating_storage"
+]
